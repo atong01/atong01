@@ -23,7 +23,7 @@ I'm a PI at [Aithyra](https://www.oeaw.ac.at/aithyra) (a research institute at t
 - **Boltzmann sampling** — scalable methods for sampling from molecular distributions
 - **Single-cell dynamics** — modeling cellular trajectories and causal discovery
 
-Before Aithyra, I was briefly an assistant professor at Duke, a postdoc with [Yoshua Bengio](https://yoshuabengio.org) at Mila, and I completed my PhD at Yale advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). I also cofounded [Dreamfold](https://www.dreamfold.ai/).
+Before Aithyra, I was a postdoc with [Yoshua Bengio](https://yoshuabengio.org) at Mila, and I completed my PhD at Yale advised by [Smita Krishnaswamy](https://www.krishnaswamylab.org). I also cofounded [Dreamfold](https://www.dreamfold.ai/).
 
 ---
 
@@ -43,8 +43,7 @@ Before Aithyra, I was briefly an assistant professor at Duke, a postdoc with [Yo
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
-<img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
 </div>
 
