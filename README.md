@@ -1,5 +1,8 @@
 ## Hi there 👋
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=atong01)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alex's GitHub stats](./profile/stats.svg)](https://github.com/atong01)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/atong01)
+
 <!--
 **atong01/atong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
